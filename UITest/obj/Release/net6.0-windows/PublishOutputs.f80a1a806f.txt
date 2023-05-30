@@ -1,0 +1,5 @@
+D:\UI\UITest.exe
+D:\UI\UITest.dll
+D:\UI\UITest.deps.json
+D:\UI\UITest.runtimeconfig.json
+D:\UI\UITest.pdb
